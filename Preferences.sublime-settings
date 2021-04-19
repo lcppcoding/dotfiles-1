@@ -26,7 +26,6 @@
   "hot_exit": false,
   "ignored_packages":
   [
-    "Vintage",
     "Python"
   ],
   "remember_open_files": false,
@@ -39,5 +38,6 @@
   "trim_automatic_white_space": true,
   "trim_trailing_white_space_on_save": true,
   "use_tab_stops": true,
-  "word_wrap": false
+  "word_wrap": false,
+  "vintage_start_in_command_mode": true
 }
