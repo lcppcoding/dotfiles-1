@@ -7,7 +7,7 @@ ZSH_THEME="robbyrussell"
 plugins=(git gitfast last-working-dir common-aliases sublime zsh-syntax-highlighting history-substring-search pyenv)
 
 # (macOS-only) Prevent Homebrew from reporting - https://github.com/Homebrew/brew/blob/master/docs/Analytics.md
-export HOMEBREW_NO_ANALYTICS=1
+# export HOMEBREW_NO_ANALYTICS=1
 
 # Actually load Oh-My-Zsh
 source "${ZSH}/oh-my-zsh.sh"
@@ -60,3 +60,6 @@ export PATH="./bin:./node_modules/.bin:${PATH}:/usr/local/sbin"
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+
+# Added by Lucas lucas
+export EDITOR='nvim'

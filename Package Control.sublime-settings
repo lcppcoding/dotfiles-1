@@ -16,11 +16,13 @@
 		"Emmet",
 		"ERB Snippets",
 		"Git",
+		"HTML-CSS-JS Prettify",
 		"Latest Migration",
 		"MagicPython",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-rubocop"
 	]
